@@ -3,7 +3,7 @@
 
 Olá mundo =)
 
-Esse é o repositório oficial de episódios do [Sudocast](http://www.sudocast.com.br) para você, ouvinte amigo, clonar o repo e escutar nossos episódios a vontade.
+Esse é o repositório oficial de episódios do [Sudocast](http://www.sudocast.com.br) para você, ouvinte amigo, acessar os links para escutar nossos episódios a vontade.
 
 ### Links
 
@@ -13,6 +13,11 @@ Esse é o repositório oficial de episódios do [Sudocast](http://www.sudocast.c
 
 * [Pery Lemke](https://www.github.com/perylemke)
 * [Mário Silveira](https://www.github.com/dermarios)
+
+### Nossas redes sociais
+
+* [Facebook](https://www.facebook.com/1sudocast)
+* [Instagram](https://www.instagram.com/sudocast)
 
 ### Empresas que apoiam este projeto
 
