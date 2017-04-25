@@ -7,7 +7,7 @@ Esse é o repositório oficial de episódios do [Sudocast](http://www.sudocast.c
 
 ### Links
 
-[Episódio 01 - Hello World](http://sudocast.com.br/portfolio-items/ep-0001-hello-world/)
+* [Episódio 01 - Hello World](http://sudocast.com.br/portfolio-items/ep-0001-hello-world/)
 
 ### Pessoas que fazem este podcast
 
@@ -16,8 +16,8 @@ Esse é o repositório oficial de episódios do [Sudocast](http://www.sudocast.c
 
 ### Empresas que apoiam este projeto
 
-* Não temos ainda, mas se há interesse em nos apoiar mande email para ping@sudocast.com.br e conversaremos sobre.
+* Não temos ainda, mas se há interesse em nos apoiar, mande email para ping@sudocast.com.br para conversarmos.
 
 ### Considerações Finais
 
-Podem abrir issues para falar sobre o programa, apontar caneladas e passar feedbacks. Tudo (Ou quase) do público é extramente bem vindo :)
+Podem abrir issues para falar sobre o programa, apontar caneladas e passar feedbacks. Tudo (Ou quase) do público é extremamente bem vindo :)
