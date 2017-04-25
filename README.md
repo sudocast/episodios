@@ -16,7 +16,7 @@ Esse é o repositório oficial de episódios do [Sudocast](http://www.sudocast.c
 
 ### Empresas que apoiam este projeto
 
-* Não temos ainda, mas se há interesse em nos apoiar mande email para ping@sudocast.com.br e conversaremos
+* Não temos ainda, mas se há interesse em nos apoiar mande email para ping@sudocast.com.br e conversaremos sobre.
 
 ### Considerações Finais
 
