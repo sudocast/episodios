@@ -7,6 +7,7 @@ Esse é o repositório oficial de episódios do [Sudocast](http://www.sudocast.c
 
 ### Links
 
+* [Episódio 02 - O Movimento Ágil](http://sudocast.com.br/portfolio-items/ep-0002-agile/)
 * [Episódio 01 - Hello World](http://sudocast.com.br/portfolio-items/ep-0001-hello-world/)
 
 ### Pessoas que fazem este podcast
@@ -21,7 +22,7 @@ Esse é o repositório oficial de episódios do [Sudocast](http://www.sudocast.c
 
 ### Empresas que apoiam este projeto
 
-* Não temos ainda, mas se há interesse em nos apoiar, mande email para ping@sudocast.com.br para conversarmos.
+* [Geekhunter](https://www.geekhunter.com.br/)
 
 ### Considerações Finais
 
