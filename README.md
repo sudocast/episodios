@@ -7,6 +7,7 @@ Esse é o repositório oficial de episódios do [Sudocast](http://www.sudocast.c
 
 ### Links
 
+* [Episódio 03 - Operação Serenata de Amor](http://sudocast.com.br/portfolio-items/ep-0003-serenata/)
 * [Episódio 02 - O Movimento Ágil](http://sudocast.com.br/portfolio-items/ep-0002-agile/)
 * [Episódio 01 - Hello World](http://sudocast.com.br/portfolio-items/ep-0001-hello-world/)
 
