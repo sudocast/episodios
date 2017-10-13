@@ -7,6 +7,7 @@ Esse é o repositório oficial de episódios do [Sudocast](http://www.sudocast.c
 
 ### Links
 
+* [Episódio 05 - A Cultura DevOps!](http://sudocast.com.br/portfolio-items/ep-0005-cultura-devops/)
 * [Episódio 04 - Peço Perdão pelo Vacilo](http://sudocast.com.br/portfolio-items/ep-0004-perdao-pelo-vacilo/)
 * [Episódio 03 - Operação Serenata de Amor](http://sudocast.com.br/portfolio-items/ep-0003-serenata/)
 * [Episódio 02 - O Movimento Ágil](http://sudocast.com.br/portfolio-items/ep-0002-agile/)
