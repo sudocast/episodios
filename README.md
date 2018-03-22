@@ -7,6 +7,7 @@ Esse é o repositório oficial de episódios do [Sudocast](http://www.sudocast.c
 
 ### Links
 
+* [Episódio 10 - Somos todos Gophers!](http://sudocast.com.br/portfolio-items/ep-0010-somos-todos-gophers/)
 * [Episódio 09 - A nova era do Tech Recruiting!](http://sudocast.com.br/portfolio-items/ep-0009-techrecruiting/)
 * [Episódio 08 - Blockchain, Criptomoedas e Cypherpunks!](http://sudocast.com.br/portfolio-items/ep-0008-blockchain/)
 * [Episódio 07 - JavaScript está dominando o mundo ou não!](http://sudocast.com.br/portfolio-items/ep-0007-javascript/)
