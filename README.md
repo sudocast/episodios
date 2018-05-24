@@ -7,6 +7,7 @@ Esse é o repositório oficial de episódios do [Sudocast](http://www.sudocast.c
 
 ### Links
 
+* [Episódio 13 - A Nova Era dos Microserviços](http://sudocast.com.br/portfolio-items/ep-0013-a-nova-era-dos-microservicos/)
 * [Episódio 12 - Não deixe o Samba morrer (+18)](http://sudocast.com.br/portfolio-items/ep-0012-nao-deixe-o-samba-morrer/)
 * [Episódio 11 - #OPodcastÉDelas!](http://sudocast.com.br/portfolio-items/ep-0011-opodcastedelas/)
 * [Episódio 10 - Somos todos Gophers!](http://sudocast.com.br/portfolio-items/ep-0010-somos-todos-gophers/)
