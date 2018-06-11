@@ -7,6 +7,7 @@ Esse é o repositório oficial de episódios do [Sudocast](http://www.sudocast.c
 
 ### Links
 
+* [Episódio 14 - Programação Funcional 101](http://www.sudocast.com.br/portfolio-items/ep-0014-programacao-funcional-101/)
 * [Episódio 13 - A Nova Era dos Microserviços](http://sudocast.com.br/portfolio-items/ep-0013-a-nova-era-dos-microservicos/)
 * [Episódio 12 - Não deixe o Samba morrer (+18)](http://sudocast.com.br/portfolio-items/ep-0012-nao-deixe-o-samba-morrer/)
 * [Episódio 11 - #OPodcastÉDelas!](http://sudocast.com.br/portfolio-items/ep-0011-opodcastedelas/)
@@ -25,11 +26,13 @@ Esse é o repositório oficial de episódios do [Sudocast](http://www.sudocast.c
 
 * [Pery Lemke](https://www.github.com/perylemke)
 * [Mário Silveira](https://www.github.com/dermarios)
+* [Igor Leroy](https://github.com/lerrua)
 
 ### Nossas redes sociais
 
 * [Facebook](https://www.facebook.com/1sudocast)
 * [Instagram](https://www.instagram.com/sudocast)
+* [Twitter](https://www.twitter.com/sudocast)
 
 ### Empresas que apoiam este projeto
 
